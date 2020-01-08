@@ -1,6 +1,6 @@
-# bmi_calculator
+# BMI Calculator
 
-A simple BMI calculator to demonstrate flutter framework.
+A simple BMI calculator to demonstrate Flutter framework.
 
 ## Getting Started
 
